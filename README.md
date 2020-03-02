@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As data analysts or data scientists, we find that we don't always get the data we need, but the data that we deserve. Many times it is up to us to extract meaningful information from our data. It could be done by transforming the data using derived columns, grouping the data and using aggregated information, or cleaning and reformatting the data. We will explore these techniques in this lab.
+ As data analysts or data scientists, we find that we don't always get the data we need, but the data that we deserve. Many times it is up to us to extract meaningful information from our data. It could be done by transforming the data using derived columns, grouping the data and using aggregated information, or cleaning and reformatting the data. We will explore these techniques in this lab.
 
 ## Getting Started
 
